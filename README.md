@@ -2,13 +2,7 @@
 
 # 埃莉卡的储存库
 
-ProjectName and Description
-
-
-<p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+主要为zip格式 禁止二次传播
 
   <h3 align="center">"欢迎!</h3>
   <p align="center">
